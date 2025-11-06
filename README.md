@@ -494,3 +494,8 @@ Desarrollado con ❤️ por Valentina y Sofía para el TPI de Programación 1.
 ---
 
 **¡Gracias por usar el Sistema de Gestión y Consulta de Colegios!** 🏫✨
+
+
+VIDEO INTEGRADOR:
+https://youtu.be/BT9ZT-lbxSk?si=pCjp5C7tiRWguzjM
+
